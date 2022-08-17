@@ -40,7 +40,7 @@ I would look like to include the option to also remove a book
 
 ## Live Link
  [live link](https://booker-finder.herokuapp.com/)
- [github](https://github.com/vhivestate/book-search-engine)
+ [github link](https://github.com/vhivestate/book-search-engine)
 
 ## Contact
   If you have any questions feel free to contact me [via email](mailto:garcia.valeria001@gmail.com). or [on GitHub](https://github.com/vhivestate).
